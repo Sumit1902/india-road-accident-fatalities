@@ -24,7 +24,7 @@ Mizoram had the largest percentage increase: **128.6%**, from 42 to 96. The perc
 
 Manipur had the largest percentage decrease: **42.5%**, from 127 to 73.
 
-In the 2023 city data, Delhi had the most reported fatalities, at **2,085**. This is a fatality count, not the number of accidents. The NCRB report also lists accident and injury counts by city; those should be reported separately if included.
+Among the 53 cities reported by NCRB, Delhi City had the most road-accident cases in 2023, with **5,715**, and the most road-accident deaths, with **1,457**. These city figures cover 2023 only.
 
 ## Limitations
 
